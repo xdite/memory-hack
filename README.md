@@ -1,4 +1,4 @@
-# Hack Working Memory
+# Hack Your Working Memory
 
 
 * [Introduction](00-introduction.md)
