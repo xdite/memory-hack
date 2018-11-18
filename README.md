@@ -1,9 +1,8 @@
 # Hack Your Working Memory
 
 
-* [Introduction](00-introduction.md)
-* [Author](00-about-author.md)
-* [Acknowledgements](00-acknowledgements.md)
+* [前言](00.md)
+
 * [01](01.md)
 
 ## Part 1: 输入
