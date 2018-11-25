@@ -1,4 +1,4 @@
 gitbook:
-	gitbook epub ./ ~/Dropbox/ebook_output/hack_working_memory.epub
+	gitbook epub ./ ~/Dropbox/ebook_output/memory_hack.epub
 commit:
 	git add .; git commit -m "update"
