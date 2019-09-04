@@ -1,6 +1,12 @@
 # 打造超人大腦
 
-本书 2019/08/20 出版，购书连结：https://www.books.com.tw/products/0010831027
+本书已于 2019/08/20 出版，
+
+实体书购书连结：https://www.books.com.tw/products/0010831027
+电子版本购书连结：https://www.kobo.com/hk/en/ebook/c6DkBPf99Du7s8pfCkJ9KQ
+
+Github 版本与正式出版稿，约有 1-2 章的增删与修改。
+建议各位读者购买正式版本收藏。
 
 * [前言](00.md) -- 作者二校
 * [打造超人一等的大脑](01.md)　-- 作者二校
